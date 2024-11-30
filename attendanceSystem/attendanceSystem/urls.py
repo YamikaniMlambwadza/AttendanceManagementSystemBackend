@@ -22,4 +22,5 @@ urlpatterns = [
     path('linkGoogle/', include('linkGoogle.urls')),
     path('attendance-summary/', include('attendance_summary.urls')),
     path('submissions/', include('submissions.urls')),
+    path('auth/', include('submissions.urls'))
 ]
