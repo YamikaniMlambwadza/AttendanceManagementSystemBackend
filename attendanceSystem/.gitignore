@@ -37,6 +37,6 @@ yarn.lock
 
 attendanceSystem/Secrets/*.json
 
-attendance_summary/
-linkGoogle/
+
+
 submissions/
